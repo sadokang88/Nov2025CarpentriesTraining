@@ -5,8 +5,11 @@ y = x + 2
 
 import pandas as pd
 
-#try same analysis as in R
+#trying same analysis as in R
 x + y
 
-#try new analysis
+#trying new analysis
 x - y
+
+#new variable
+z = y - x

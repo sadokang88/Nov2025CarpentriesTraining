@@ -7,3 +7,5 @@ z + y + x
 
 #new analysis
 z - y *x
+
+#big update - x is not an integer
