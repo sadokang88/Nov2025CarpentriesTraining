@@ -4,3 +4,6 @@ z <- y - x
 
 #idea for analysis
 z + y + x
+
+#new analysis
+z - y *x
